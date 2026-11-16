@@ -223,7 +223,7 @@ Impact figures are estimates derived from the FY 2025 synthetic dataset.
 
 ## Dashboard
 
-![Pricing & Profitability Dashboard](images/dashboard.png)
+![Pricing & Profitability Dashboard](https://github.com/yoskev/Logistics-Pricing-Analysis/blob/main/Insight%20%26%20Recommendations/Pricing%20%26%20Profitability%20Dashboard%202025.jpg)
 
 The executive dashboard contains:
 
