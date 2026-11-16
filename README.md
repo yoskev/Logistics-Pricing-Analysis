@@ -18,9 +18,8 @@ An end-to-end Excel analytics model that links operational **Delivery Orders** w
 8. [Recommendations](#recommendations)
 9. [Dashboard](#dashboard)
 10. [Tools & Skills](#tools--skills)
-11. [Repository Structure](#repository-structure)
-12. [Documented Edge Cases & Maintenance Notes](#documented-edge-cases--maintenance-notes)
-13. [Author](#author)
+11. [Documented Edge Cases & Maintenance Notes](#documented-edge-cases--maintenance-notes)
+12. [Author](#author)
 
 ---
 
