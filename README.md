@@ -241,22 +241,6 @@ The executive dashboard contains:
 - **Data cleansing and validation:** text normalisation, type coercion, date standardisation, null-safe formulas
 - **Financial analysis:** unit economics, margin modelling, revenue leakage, AR aging, volume rebate evaluation
 
-## Repository Structure
-
-
-.
-├── Logistics_Pricing_Profitability_Analysis.xlsx   # Full model (21 worksheets)
-├── docs/
-│   ├── 01_Project_Brief_Requirements.pdf
-│   ├── 02_Data_Model_and_Metadata_Dictionary.pdf
-│   ├── 03_Data_Cleansing_Validation_Standardization.pdf
-│   ├── 04_Analysis_Expressions_Formulas_Business_Logic.pdf
-│   ├── 05_Pricing_Profitability_Dashboard.pdf
-│   └── 06_Insights_and_Recommendations.pdf
-├── images/
-│   └── dashboard.png
-└── README.md
-
 
 ## Documented Edge Cases & Maintenance Notes
 
